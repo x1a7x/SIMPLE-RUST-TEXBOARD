@@ -1,3 +1,20 @@
+
+
+
+![Screenshot 2024-12-05 123640](https://github.com/user-attachments/assets/4eff85d7-ecf5-473c-b9fb-4a6c9e186802)
+
+
+
+
+![392625542-140f0ada-5792-479c-9842-fb10d20e749c](https://github.com/user-attachments/assets/407a4524-3aec-4ea1-80df-ae4d2171a329)
+
+
+
+
+
+
+
+
 # Rust Simple Textboard
 
 Rust  Textboard is a simple, lightweight web application implemented in **Rust** using the **Actix-Web** framework. It is designed as a message board for creating threads and replying to existing posts, with a clean and minimalistic front end. The application uses **Sled** as its data storage and **Askama** as the template engine, both of which are written in Rust and bring a number of unique benefits to the application.
